@@ -80,7 +80,7 @@ async def start_bot():
  _____________________________________________   
 |                                             |  
 |          Deployed Successfully              |  
-|         (C) 2021-2022 by @szteambots        | 
+|         (C) 2021-2022 by @xenpaicc        | 
 |          Greetings from supun  :)           |
 |_____________________________________________| """)
     await idle()
