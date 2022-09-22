@@ -43,7 +43,7 @@ class var(object):
 I'm a group management bot with some useful features.
 You can choose an option below, by clicking a button.
 If you have any bugs or questions on how to use me, 
-have a look at my [Docs](https://szsupunma.gitbook.io/rose-bot/), or head to @szteambots.
+have a look at my [Docs](https://t.me/Xenpaicc), or head to @xenpaicc.
 
 **All commands can be used with the following: / **"""
         #Rose start menu conections(split commands on start)
@@ -90,15 +90,15 @@ An  advanced telegram Group management Bot For helpYou Protect Your Groups & Sui
         about_buttons = InlineKeyboardMarkup(
                 [
                         [
-                                InlineKeyboardButton(text="👥Support Group", url="https://t.me/szrosesupport"),
-                                InlineKeyboardButton(text="👤News Channel", url="https://t.me/Theszrosebot")
+                                InlineKeyboardButton(text="👥Support Group", url="https://t.me/Xenpaicc"),
+                                InlineKeyboardButton(text="👤News Channel", url="https://t.me/xenpaicc")
                         ], 
                         [ 
-                                InlineKeyboardButton(text="⚒ Source Code", url="https://github.com/szsupunma/sz-rosebot"),
-                                InlineKeyboardButton(text="📓 Documentation", url="https://szsupunma.gitbook.io/rose-bot")
+                                InlineKeyboardButton(text="⚒ Source Code", url="https://t.me/Xenpaicc"),
+                                InlineKeyboardButton(text="📓 Documentation", url="https://t.me/Xenpaicc")
                         ], 
                         [
-                                InlineKeyboardButton(text="🖥 How To Deploy Me", url="https://youtu.be/ZUvFSU8W7VA")
+                                InlineKeyboardButton(text="🖥 How To Deploy Me", url="https://t.me/Xenpaicc")
                         ],
                         [
                                 InlineKeyboardButton("« Back", callback_data='startcq')
@@ -119,8 +119,8 @@ An  advanced telegram Group management Bot For helpYou Protect Your Groups & Sui
                                 InlineKeyboardButton(text="Help Menu ⚒",callback_data="bot_commands")
                         ],
                         [
-                                InlineKeyboardButton(text="Website 💭",url=f"https://szrosebot.ml"),
-                                InlineKeyboardButton(text="News Channel 📢",url=f"https://t.me/szroseupdates")
+                                InlineKeyboardButton(text="Website 💭",url=f"https://t.me/Xenpaicc"),
+                                InlineKeyboardButton(text="News Channel 📢",url=f"https://t.me/xenpaicc")
                         ]
                 ]
 )
